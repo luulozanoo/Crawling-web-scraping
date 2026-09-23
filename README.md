@@ -23,5 +23,5 @@ En lugar de depender de datos preexistentes o APIs limitadas, he construido auto
 Si tienes alguna duda sobre el proyecto, el despliegue en local o quieres conectar conmigo, puedes encontrarme a través de los siguientes canales oficiales:
 
 * 📧 **Email:** lucia.lozano110@gmail.com
-* 💼 **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
+* 💼 **LinkedIn:** [linkedin.com/in/lucia-lozano-isac](https://linkedin.com/in/lucia-lozano-isac)
 * 🐙 **GitHub:** [github.com/luulozanoo](https://github.com/luulozanoo)
